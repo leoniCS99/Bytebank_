@@ -1,27 +1,45 @@
-# Bytebank
+<h1 align="center">Api Rest Produto</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+<br>
 
-## Development server
+<p align="center">
+  <img alt="dev" src="https://github.com/leoniCS99/Spring-Boot-APi-Produto/blob/main/src/main/resources/template/dev.png" width="100%">
+</p>
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## ✨ Tecnologias
 
-## Build
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [Java](https://docs.oracle.com/en/java//)
+- [Spring Boot](https://spring.io/projects/spring-boot/)
+- [Swagger](https://swagger.io/docs//#/)
+- [H2](https://gasparbarancelli.com/post/banco-de-dados-h2-com-spring-boot/)
 
-## Running unit tests
+## 💻 Projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Acesso Deploy Heroku
+[Api Produto](https://api-spring-produto.herokuapp.com/swagger-ui.html#/)
 
-## Running end-to-end tests
+## 🚀 Como executar
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Clone o repositório
+- Instale as dependências Maven com `mvn clean install`
+- Inicie o servidor com `mvn spring-boot:run`
 
-## Further help
+A aplicação pode ser acessada em [`localhost:8080`](http://localhost:8080)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<!-- ## 📄 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes. -->
+
+---
+
+Feito com ♥ by Leoni Cesar 👋🏻 
