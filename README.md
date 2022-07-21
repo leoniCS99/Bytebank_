@@ -1,6 +1,4 @@
 <h1 align="center" >Bitebank</h1> 
-<img alt="dev" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="10%">
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,7 +17,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Angular]([https://docs.oracle.com/en/java//](https://angular.io/))
+- [Angular](https://angular.io/)
 - [Node](https://nodejs.org/en/)
 - [Json-Server](https://www.npmjs.com/package/json-server)
 
@@ -31,10 +29,10 @@ Acesso Deploy Heroku
 ## 🚀 Como executar
 
 - Clone o repositório
-- Instale as dependências Maven com `mvn clean install`
-- Inicie o servidor com `mvn spring-boot:run`
+- Instale as dependências Maven com `npm install -g`
+- Inicie o servidor com `npm run start`
 
-A aplicação pode ser acessada em [`localhost:8080`](http://localhost:8080)
+A aplicação pode ser acessada em [`http://localhost:4200`](http://localhost:4200)
 
 <!-- ## 📄 Licença
 
