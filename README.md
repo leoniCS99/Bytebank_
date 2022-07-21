@@ -18,10 +18,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Java](https://docs.oracle.com/en/java//)
-- [Spring Boot](https://spring.io/projects/spring-boot/)
-- [Swagger](https://swagger.io/docs//#/)
-- [H2](https://gasparbarancelli.com/post/banco-de-dados-h2-com-spring-boot/)
+- [Angular]([https://docs.oracle.com/en/java//](https://angular.io/))
+- [Node](https://nodejs.org/en/)
+- [Json-Server](https://www.npmjs.com/package/json-server)
 
 ## 💻 Projeto
 
