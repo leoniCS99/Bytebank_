@@ -11,6 +11,11 @@
 </p>
 <br>
 
+<p align="center">
+  <img alt="dev" src="https://github.com/leoniCS99/Bytebank_/blob/main/img/extrato.PNG" width="80%">
+</p>
+<br>
+
 
 
 ## ✨ Tecnologias
