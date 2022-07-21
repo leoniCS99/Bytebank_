@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev" src="https://github.com/leoniCS99/Bytebank_/blob/main/img/nova-transferencia.PNG" width="100%">
+  <img alt="dev" src="https://github.com/leoniCS99/Bytebank_/blob/main/img/nova-transferencia.PNG" width="80%">
 </p>
 <br>
 
