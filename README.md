@@ -28,9 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Acesso Deploy Heroku
-[Api Produto](https://api-spring-produto.herokuapp.com/swagger-ui.html#/)
-
+  O projeto foi Desenvolvido com a funcionalidade de transferir valores bancários 
+  
 ## 🚀 Como executar
 
 - Clone o repositório
