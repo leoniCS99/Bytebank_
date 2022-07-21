@@ -1,4 +1,5 @@
-<h1 align="center">Bitebank</h1>
+<h1 align="center" >Bitebank</h1> 
+<img alt="dev" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="10%">
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
